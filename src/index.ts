@@ -62,6 +62,4 @@ try {
     )
   }
 }
-console.log('')
-
 console.log('\nDone.')
