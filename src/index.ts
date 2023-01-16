@@ -1,3 +1,12 @@
+/**
+ * The program
+ *
+ *
+ * By: Igor Zhelezniak
+ * Version: 1.0
+ * Since:   2022-09-17
+ */
+
 import Triangle from './Triangle'
 
 console.log('')

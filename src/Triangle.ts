@@ -1,10 +1,10 @@
 /**
- * Triangle class (2)
+ * The program
  *
  *
- * By: Peter Gemmell
+ * By: Igor Zhelezniak
  * Version: 1.0
- * Since:   2022-10-17
+ * Since:   2022-09-17
  */
 
 class Triangle {
