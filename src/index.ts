@@ -50,6 +50,4 @@ console.log(
     testTriangle1.getcircumRadius().toFixed(4) +
     ' mm'
 )
-console.log('')
-
 console.log('\nDone.')
